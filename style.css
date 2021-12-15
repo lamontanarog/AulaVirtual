@@ -1,0 +1,11 @@
+.titulo {
+    color: #000000;
+    font-family: "Comic Sans MS";
+    font-size: medium;
+}
+.tituloTabla {
+    background-color: #640b0b;
+    color: #FFFFFF;
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
